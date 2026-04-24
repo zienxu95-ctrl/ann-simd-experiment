@@ -1,0 +1,14 @@
+ann_autovec
+ann_novec
+ann_run
+ann_test
+ann_test_auto
+
+*.bak
+*.step3bak
+*.step6bak
+*.step7bak
+
+main.s
+main_novec.s
+vec.log
